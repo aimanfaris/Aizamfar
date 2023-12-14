@@ -11,7 +11,7 @@
 <body>
 	<header>
 		<nav>
-			<div class="logo">GeeksforGeeks</div>
+			<div class="logo">Duitin Sampah</div>
 			<ul class="nav-links">
 				<li><a href="#">Home</a></li>
 			</ul>
@@ -20,19 +20,15 @@
 
 	<section class="about">
 		<h1>About Us</h1>
-		<p style="font-weight: bold">GeeksforGeeks is a leading platform...</p>
+		<p style="font-weight: bold">Bersihkan Lingkungan, Kumpulkan Pundi-Pundi</p>
 		<div class="about-info">
 			<div class="about-img">
 				<img src=
                 "https://i.pinimg.com/564x/e7/d3/85/e7d385582acc12a3bff241ef3b172c4f.jpg">
 			</div>
 			<div>
-	<p>GeeksforGeeks is a leading platform that provides computer science resources
-				and coding challenges for programmers and technology enthusiasts,
-				along with interview and exam preparations for upcoming aspirants.
-				With a strong emphasis on enhancing coding skills and knowledge,
-				it has become a trusted destination for over 12 million plus registered
-				users worldwide.</p>
+	<p>
+Website Duitin Sampah adalah platform online yang memungkinkan individu  untuk membeli dan menjual berbagai jenis sampah dan barang bekas. Ini adalah konsep yang berkembang dalam upaya untuk mengurangi limbah, mendukung daur ulang, dan mendorong praktik berkelanjutan. Berikut adalah deskripsi produk yang ada dalam website penjualan sampah</p>
 				<button>Read More...</button>
 			</div>
 		</div>
@@ -89,7 +85,7 @@ business-office-business-woman-professional.jpg" alt="User 3">
 	</section>
 
 	<footer>
-		<p>© 2023 GeeksforGeeks. All Rights Reserved.</p>
+		<p>© 2023 Duitin Sampah. All Rights Reserved.</p>
 	</footer>
 </body>
 
